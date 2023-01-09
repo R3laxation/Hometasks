@@ -40,11 +40,11 @@
     /*background-color: red;*/
     content: "";
     position: absolute;
-    top: 60%;
+    top: 43px;
     margin-top: 1px;
-    right: 49px;
+    right: 55px;
     border: solid 8px transparent;
-    border-top-color: #0066CC;
+    border-bottom-color: #0066CC;
     z-index: 1;
 }
 
