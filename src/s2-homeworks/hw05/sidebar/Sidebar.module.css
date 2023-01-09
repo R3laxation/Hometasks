@@ -8,6 +8,7 @@
 }
 
 .nav {
+    background-color: red;
 }
 
 .nav a {
@@ -17,6 +18,8 @@
 }
 
 .nav a.active {
+    background-color: green;
+    color: #fff;
 }
 .close {
 }
